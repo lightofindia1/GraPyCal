@@ -3,6 +3,7 @@ Project Name: GraPyCal
 Version: 1.0
 Author: Manikiran P
 Last Modified Date: 12/16/2015
+Requirements: Python 2.7 & Pygame
 '''
 import pygame,sys
 def check(x,y):
